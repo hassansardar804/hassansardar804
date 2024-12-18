@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! 😊 I'm Hassan Sardar
 💻 MERN Stack Developer | Frontend Enthusiast<br>🎓 Cybersecurity Student | Exploring AI & Python<br>🚀 Working on projects like AI Interviewbase Websites<br>🌱 Currently learning Next.js <br>🛠 Passionate about building dynamic and user-friendly applications.
 
 
